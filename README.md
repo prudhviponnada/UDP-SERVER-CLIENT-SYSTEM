@@ -158,15 +158,6 @@ OK (myresult=3)
 
 <hr/>
 
-<h2>Submission</h2>
-<ul>
-  <li>Folder name: <code>np_assignment2</code></li>
-  <li>Archive format: <code>&lt;bth_id&gt;-assignment2b.tar.gz</code></li>
-  <li>Must include full Git history (not a single "solved" commit)</li>
-  <li>Must support <code>make</code> and <code>make clean</code></li>
-</ul>
-
-<hr/>
 
 <h2>Author Notes</h2>
 <p>
