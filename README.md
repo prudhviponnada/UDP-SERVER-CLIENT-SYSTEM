@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>NP Assignment 2 – UDP Binary Client & Server</h1>
+
 
 <h2>Overview</h2>
 <p>
