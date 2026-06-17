@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>NP Assignment 2 - UDP Binary Protocol</title>
-</head>
-<body>
 
+<body>
+<h1>NP Assignment 2 – UDP Binary Client & Server</h1>
 
 
 <h2>Overview</h2>
